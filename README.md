@@ -16,7 +16,9 @@ This tool was built for selecting sequences based on length.
 3. **Desired Size**:
    Set the sequence size
 5. **Filter Mode**:
-   //-Equal to
+   -Equal to
+
    -Smaller than
+
    -Larger than
 
