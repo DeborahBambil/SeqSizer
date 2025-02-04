@@ -15,12 +15,7 @@ This tool was built for selecting sequences based on length.
    Input file
 3. **Desired Size**:
    Set the sequence size
-5. **Filter Mode**:
-
-     -Equal to
-
-   -Smaller than
-
-   -Larger than
+5. **Filter Mode**: -Equal to -Smaller than -Larger than
+   
  ![name-of-you-image](https://github.com/DeborahBambil/figs/blob/main/tool.png)
 
