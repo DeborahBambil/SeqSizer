@@ -22,4 +22,5 @@ This tool was built for selecting sequences based on length.
    -Smaller than
 
    -Larger than
+ ![name-of-you-image](https://github.com/DeborahBambil/figs/blob/main/tool.png)
 
