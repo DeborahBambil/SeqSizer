@@ -1,4 +1,4 @@
-# SeqSizer
+# Seq Sizer
 
 This tool was built for selecting sequences based on length.
 
